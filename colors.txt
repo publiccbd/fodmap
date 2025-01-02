@@ -1,0 +1,15 @@
+background
+
+zachtgroen = #D1E8E2
+zachtblauw = #E0F7FA
+lichtbeige = #FAF3E0
+zachtwit = #FFFFFF
+lichtgrijs = #F5F5F5
+
+Elements
+zachtgroen = #98FB98
+zachtgroen = #2E8B57
+zachtgroen = #98FF98
+zachtgroen = #808000
+zachtgroen = #B2AC88
+zachtgroen = #228B22
